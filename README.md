@@ -28,23 +28,7 @@ python DiceRoller.py
 
 Replace DiceRoller.py with your actual filename if it's different.
 
-## Example Output
 
-How many dice?: 2
-
-┌---------┐
-│  ●   ●  │
-│    ●    │
-│  ●   ●  │
-└---------┘
-
-┌---------┐
-│  ●      │
-│         │
-│      ●  │
-└---------┘
-
-The total is: 7
 
 
  Future Improvements
