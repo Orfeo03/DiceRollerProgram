@@ -1,4 +1,4 @@
-Dice Roller Program 🎲
+Dice Roller Program 
 
 A simple dice rolling program I made using Python to practice loops, dictionaries, and random numbers.
 
